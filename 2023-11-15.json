@@ -1,0 +1,26 @@
+{
+  "name": "Kate Page",
+  "age": 24,
+  "address": {
+    "street": "Egku Park",
+    "city": "Ceugdu",
+    "state": "TN",
+    "zip": "89818"
+  },
+  "contact": {
+    "phone": "(231) 574-7215",
+    "servicePhone": "800635767"
+  },
+  "birthday": "2005-01-28T16:33:59.947Z",
+  "ip": "135.3.117.74",
+  "foo": "bar",
+  "profile": {
+    "about": "Ow inice tonoju ona uzpew sazbo wabusri ec otilod gil afeizoon le mo har gopizat jecoju ara baz. Becdifab lufjajo duf kirelpu uzdag ekewim ruk boazu muwinde us umgejwem zeac wuctisik fif tipizwe sigun wohirput. We caropi febvone hisulmu zodal gamo lizjumwa puonnu zoawaamu zoz rubaiju tiemi joipu sacaeci kuvbetet cicu.",
+    "bio": "Nazpekecu zi wu vefjodop siwugud fofiav sapuzare leza kagim sujgu sawif vu ceezozu noejten. Se rom refuifo jinabak ofi sigoh hehewo suwubpu ehoref mug gudjek zaco iwamunti ana. Lil jalseg upwidma opipegdu sasjofgi gideta nawiwko gombi ezbosnis ovobale ced wivcuf buhepilez paddi sioz aguh. Pe ucdis ca bugha melucno atofaglid umwu puce jespiva ah dop begu. Vikone fafkaded sifef folvattob fivofo ak duwwi cazapra fec luvhe dukwihra temiasa lini se jo lucwegci jitudha. Rap vedip icper seine gahuhta bohsagwe fa ocihe li wufmew oneiroaze kiup se datu zo beviob enkim lod."
+  },
+  "apiKey": "a55df40a9aed18acd645d6f4524b67946bd1bbd8db1e53e0a13f9b8140a43e93",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
