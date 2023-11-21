@@ -1,0 +1,26 @@
+{
+  "name": "Kate Reeves",
+  "age": 65,
+  "address": {
+    "street": "Rorrit Junction",
+    "city": "Pufrazo",
+    "state": "MT",
+    "zip": "37920"
+  },
+  "contact": {
+    "phone": "(856) 621-2989",
+    "servicePhone": "800288987"
+  },
+  "birthday": "1977-05-06T10:04:09.667Z",
+  "ip": "24.96.82.48",
+  "foo": "bar",
+  "profile": {
+    "about": "Puov miafbo ju zeceito ag zorbir fak zuwci uhza gi zew owaze. Nuluku veg vi jejjej ojuha so huzoife germa vib zood pielfop firumef du opu rodimti ez batbiw. Vevi amadadnih peec duanuaz so awu sagu pijo ka kizpef puklebes acusidop wa gu.",
+    "bio": "Pof nomipam ico nitasuniz ojauroisa lidazu rap pohotgav miduk solcuc ridib ijotuzhu petauro pa pa kav. Ah nesawci funa gotuz dufdifbuk kelfuge dezosfo doufu sinujo bi la bofbo wiibgab cu. Jibuwo lukbicow wuku senfob ci vurtansap decelu pucpepal edbo vud nezwur liz ristacdes cirsajkad rud poadikew cino lonosuheg."
+  },
+  "apiKey": "a565ac529c9c0c12dc1d795203064f1e297b1ec26a2e7ac107c586667c36a478",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
