@@ -1,0 +1,26 @@
+{
+  "name": "Loretta Vasquez",
+  "age": 63,
+  "address": {
+    "street": "Hulowa Place",
+    "city": "Velapihi",
+    "state": "WA",
+    "zip": "63340"
+  },
+  "contact": {
+    "phone": "(902) 332-2057",
+    "servicePhone": "800833744"
+  },
+  "birthday": "2000-05-28T09:37:48.365Z",
+  "ip": "191.222.54.62",
+  "foo": "bar",
+  "profile": {
+    "about": "Ditje oku tocof utazuk seg ma kowbuface dej gohuve bic ezu luso gironur vifo uzru iduuzuaki wiku im. Waoj vippuju niceb ig roca zeg kav da vejcob vir jiugete awe do irdornet obolo kulaco. Hezad dujvac kepefo kiwniri wu ef pevkum edkewo ermufur zolu roflur duzufhu rut tol vahugo lo gev jatpo.",
+    "bio": "Weko net belikdal lujwivoz vo razes cosot wi ce okpara nohatej imetza. Seworhar tiffaez ozit dajsu ifjoib ac kareho ulu ku iczuhmuf uk tohto. Nefip zac idesef atumed cos libaziro rihuv uzohiba mi dirov pikon ew mamnuzke tiphu johkoj lo. Kavuz ziwru rijul lomol ejiebpok heh fomi rakog suz cusolzat so ivi umka wezuv. Imiizajem ka veoride savigej wur zib junme buit ujizaogo behsaslim agadooki is fud dukami vov duve ibi sicipka. One umwatki cuunda umi inefikdu ojto sevbec hulop wu welpuz zap fedikpu hocvana jem pu vom las."
+  },
+  "apiKey": "e4b60e85277d2ba5bd335abf34888f8164a2fc47acc338eaf526384e1433f74b",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
