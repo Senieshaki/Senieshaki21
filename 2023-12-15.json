@@ -1,0 +1,26 @@
+{
+  "name": "Gregory Sanders",
+  "age": 32,
+  "address": {
+    "street": "Nifu View",
+    "city": "Umuniwu",
+    "state": "DC",
+    "zip": "66945"
+  },
+  "contact": {
+    "phone": "(475) 501-1170",
+    "servicePhone": "800312435"
+  },
+  "birthday": "1993-08-26T11:01:21.273Z",
+  "ip": "90.240.109.117",
+  "foo": "bar",
+  "profile": {
+    "about": "Ceod wejzof tekujho ohiharel kov pel da fu cucun lu suw dig uc dubi. Jican zunatre fugwihnic bisrokbub loef emebumap muctirop ponor bipkikgo licim aludoz nilo ih ze okibi. Kanmep botiwtol jifbeta ze omrojur lislib ibbiw lo jajerrus riddol bulilvak li petatpid no ko semik sesuleb.",
+    "bio": "Cew kim ozelok hot duon epaka gagat kudtajeni du bivicvef isu de ovilibe nev zahzotle tubodube unmujit pewuco. Dekiv enu devi kosusa furobuzi dajba co cozzori cipgez jameb dunegezu do om sevut. Egaav je vowi hev af siwmalaf devas weltom dewkositu dusakmep reb omhe jacsa vagvuzah baiz ja zagiezu hevek. Najisow zebtob vuzerin gotebi jikkadce subco wohjese uwuivci cenla waffurun gitsovuw nigetce gut ekoup edutukwu."
+  },
+  "apiKey": "7eb4f2c0a9772a9935fc868a8c36f7db73b427ffe9c7bae96c589e079b59cd7e",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
