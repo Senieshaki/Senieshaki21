@@ -1,0 +1,26 @@
+{
+  "name": "Miguel Benson",
+  "age": 36,
+  "address": {
+    "street": "Ango Road",
+    "city": "Tepavve",
+    "state": "NY",
+    "zip": "21174"
+  },
+  "contact": {
+    "phone": "(334) 335-1815",
+    "servicePhone": "800626366"
+  },
+  "birthday": "1959-05-31T04:54:42.181Z",
+  "ip": "123.5.250.106",
+  "foo": "bar",
+  "profile": {
+    "about": "Va naj ub kite oc daslubgiw te kowiwe ih rowunu ocozo uma losewoc tusruf tob. Wozdob wamomhu ca actendo asafoma eggecof zi til pat jazogpej wipin somules mu la. Tifrekdu ac wifiwvuf ubo bioca bagu haj suhij caw ke ujdijini ce epici pez gen. Picuhe keewu apocahve sisdijbil licamavo ogajup nu zofuga haigoma ihine lo wi ov si gus.",
+    "bio": "Zihas atetihoz ke ticenan hupgaz ofu koavi dil uwusitcu lowbu ek sohbiheh na ki lumo pu lorno. Ada teafivon lihtiheg zuef dokwet tapillez hazna fuf jezemzaf zusjegit zelor metecibar puwedeh fekike uvgof kitbi. Mijheba sojtud awsi bow hanmev node lizna ifsa kim ge uzpu viezeuji."
+  },
+  "apiKey": "b632122fa18bd1cb1c30da9a970176e65231a451c8d428c83e03c9578b8783a3",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
