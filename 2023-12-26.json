@@ -1,0 +1,26 @@
+{
+  "name": "Leon Briggs",
+  "age": 22,
+  "address": {
+    "street": "Ivde Street",
+    "city": "Coggawki",
+    "state": "OR",
+    "zip": "96094"
+  },
+  "contact": {
+    "phone": "(921) 979-5066",
+    "servicePhone": "800582853"
+  },
+  "birthday": "1990-11-25T07:27:34.973Z",
+  "ip": "166.160.168.10",
+  "foo": "bar",
+  "profile": {
+    "about": "Oja ecro aboami bop opkap ene gatseh ho voro ehzo dap muif ocu zimo. Mij awnueva bu pi evhiz lowigaki osiog ehinam jahazol velmuige pap cif us naw ruzughah gowaib akemu. Wikehuun uca jitan jeczodob goz mud zas gapcor ekiror enpozot sugbewego aj kuawa suzku japip. Apofawi ocpuv asi ki arowog kesakit lugim rab kijtos osuen gujjuvad efudew. Akusi zaaveiti kol lawvi biw oguek venogu bil zad obcul fir kuikejo niiv epifof pe kughehe javhorhu. Fiwvomap lumotew ij omubehlic efukzin emohaf arheke linhej wodi ovemehpe poj igav. Huisalo woabe gokih ac memu po ma sirkerru gukno cicore gaf pugip farahra epwaabi.",
+    "bio": "Lat su harrabze poet wucbajmim hezi rigpoh wasfi zefujeb miw fej hev kuddop sakkot tidbaz lazoeg dotot. Fegcasi silureb vubpa bercipe ogu emujahum pig olaace mejfiv aphevhu pofgika emu colijo hu amegge ovase sojhok. Ipi cijijusuf sokudoc ruv keju ko vina pid uhiatu li ratioka zob wipa zezpigih puhpihuvi."
+  },
+  "apiKey": "a80bda735c10b537f25762e25a864033465b0e28bcc9f5707643a184283fcd46",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
