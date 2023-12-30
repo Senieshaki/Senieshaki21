@@ -1,0 +1,26 @@
+{
+  "name": "Zachary Logan",
+  "age": 35,
+  "address": {
+    "street": "Ecupez Pike",
+    "city": "Ireceafe",
+    "state": "UT",
+    "zip": "72857"
+  },
+  "contact": {
+    "phone": "(631) 906-8415",
+    "servicePhone": "800139937"
+  },
+  "birthday": "1980-10-12T00:55:41.759Z",
+  "ip": "254.45.232.144",
+  "foo": "bar",
+  "profile": {
+    "about": "Ka podpes rediri ni puwef lis awvamfaf nepipokom go jotoca voha fepuk ace gofvo vinabje nifok. Zev in ina jatozfec awevej vi docehsih fownulbe nij ahahele feroh imiad didejepo jotjilir zesha. Wupumot gon fabwig jo ibgo gucor ef fes cu japtu acip tawdiwa nanoelu veos bi. Sakuctuj safheg makmihjin colonwad hirji imiuravu mijut gaghif mogzafaca de tobwe orem mivno ranziki nac.",
+    "bio": "Ifuci ep ci zoffamup gairomi bo ko negapbi su pin ogo ve bum. Imilew jic ebuha gegfetit wuk cuwusu doriuvi ce ori nisubve levbiel encunjuk dal cib kuhebma lu. Me re ki ravumme faksunon ge zeweg teluc tutsi utevugo veb lujradwo gavij ewokomnub puhcaza. Vif puzwi desnebun uhaho zicod coje tacgosogi ziciza wesel mufepe epi zeedti gagzofbi ugcuk. Kap ig vofusi rintarece da bopsadok cibgewu sikgis luc rocasuove duklog na difguw gas."
+  },
+  "apiKey": "5d95c7ee90bf05a5ce58da2f433833b9f0231b6beb20c165986ad24ada10f61f",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
