@@ -1,0 +1,26 @@
+{
+  "name": "Dorothy Reid",
+  "age": 21,
+  "address": {
+    "street": "Kabnug Park",
+    "city": "Ukijepip",
+    "state": "CO",
+    "zip": "38161"
+  },
+  "contact": {
+    "phone": "(245) 239-5244",
+    "servicePhone": "800357184"
+  },
+  "birthday": "1980-07-09T17:40:48.552Z",
+  "ip": "2.57.116.209",
+  "foo": "bar",
+  "profile": {
+    "about": "Ini ma ci velig fut vogliek zofjihaco etatul lobelopaf gasheboc ajtik alhesa. Wavfemiw vemvebo ramni cefo wovpinic jawewi jeh ced noenukon owupenfa pi dumun megvo sehovgaj vaore. Lepukaw wufogkid voomap omap jo tuli fuho ipu oreevehu wocveeta nerca ap powil log. Joletuk fagwednaf fusuzzuv fiv odpuhkan ge hu zefuk livdon otu fioto ipaze zesatsus.",
+    "bio": "Jomizji govo so mietuti curaga veze taci kakido onfiar hitoji nuewa wej. Vibvojem bu na actifkos nacheha vot gucos zaec atavi reopura wikme aspa ek. Zoufi ofhunifi ow nahabeg gu cubpuem diew saca nicbukme egtalap akwac jad ihza."
+  },
+  "apiKey": "6a8caec69357c983687afa6fa72a14b9a34600c54c37945b2e794bc3cfcbee8e",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
