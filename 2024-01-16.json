@@ -1,0 +1,26 @@
+{
+  "name": "Lola Nguyen",
+  "age": 18,
+  "address": {
+    "street": "Dadvaz Circle",
+    "city": "Saklofoce",
+    "state": "AZ",
+    "zip": "56647"
+  },
+  "contact": {
+    "phone": "(512) 713-7437",
+    "servicePhone": "800914299"
+  },
+  "birthday": "1984-12-23T10:29:48.241Z",
+  "ip": "80.48.157.254",
+  "foo": "bar",
+  "profile": {
+    "about": "Bauho jezjov ilokopuj rafoh fulouv ilujerow oca suckep kiboili jinabu focvomor map. Cellovid cug lawmew afmacca zed dumisi ehu lul ze wom gul hiufcus wotejwem gav dabzim fan pocob. Naj lu migadat mor naiz dogle sec arulo jow womighe sabepre jokorsu escaw cef cekder. Bekmih gopopre iloge hu de duminoc pokkob dujdamjak jungobre le amimoj itubolce vemuzte ovafo cedo.",
+    "bio": "Zew ale por riicidu zifut afaukca zem ujgi cilni edoteur eziitoku macuvuos du. Me regaj go vinuri sid ubo osnap arika tuteja lojehi va tuztanli. Ci alde re vu wulbip fo saduhzu metodca gudetne lupa zuuburu hacfulpik. Kalilup like fape tu wekof begjos gebzasa cu riwijidu evuwugal getufi wi uki ofe hor jefep lol. Wupobgom tadid zojfiswi nuag veruj vi ver ruvuiri ohba lec cepdam ajgisu vufwa ziod cuf ivrusa pujhacipi ecku. Sofizo zaw won apefef kulujme hu sabomid viha nos upazo duhmig lozpeg ikha."
+  },
+  "apiKey": "929aeba16effcb935633fd532a2141a8ab3b3d2dc1f88c1df33f9603e733abe5",
+  "currency": {
+    "code": "AZN",
+    "name": "Azerbaijan New Manat"
+  }
+}
