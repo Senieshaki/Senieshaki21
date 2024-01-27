@@ -1,0 +1,26 @@
+{
+  "name": "Jack Torres",
+  "age": 36,
+  "address": {
+    "street": "Elfu Path",
+    "city": "Cekovoh",
+    "state": "CO",
+    "zip": "91219"
+  },
+  "contact": {
+    "phone": "(337) 368-7559",
+    "servicePhone": "800147241"
+  },
+  "birthday": "1976-08-21T19:07:38.031Z",
+  "ip": "106.186.238.19",
+  "foo": "bar",
+  "profile": {
+    "about": "Ub dopocreh dimo usian be atob rufjo vetijru pe kaktasa hi cafohfo. Kuh zob sedoc awu he fa je otdujog nik tugekgu setmi za di mulezesed uvele cujjafhe afozi hegek. Eplicba it tejuwda zo fozocwe ukufiaj ge nenov poc li cecnin fasru ibi sa nipovja pasamwe camonol pivam. Ucjer gisic lus fomgat ho fi cew lootziv cawi ka wonvus la rioz bebceham. Fetkoj anfeguz bi faz ru ranakah wecok acmuk pov jaiw bebneaf li gidzaf iw wonjijzug.",
+    "bio": "Oreloj ruhcof agza zoce lom las oju ruwoh rebka pehsace da zasav adkise ced ohhaeh guhetrap. Safcoru id pibdefeg sufos ratipbo rockiwok seokobe wuzeral ferfi zuj uhgapu jaluzore. Also roruvi awilahir kaziw baputcib iw po uw bipernef podapis ofasok kohvibig vova la afuafiti asenajjop og. Ganenos hama tenetkep gov ojwes aj tiwo ap gut ik lam selochij. Gite encajak jijek cuwakbug zihaka tigtarbit il umieb otgekav zuznofij ica to elopo ba wukivi."
+  },
+  "apiKey": "9086dafe252557d239bc3b6ded47fbe5328ce0eeefbcbcb5afad4dab2e362d6a",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
