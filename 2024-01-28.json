@@ -1,0 +1,26 @@
+{
+  "name": "Sean Moody",
+  "age": 18,
+  "address": {
+    "street": "Dooh Street",
+    "city": "Orjilco",
+    "state": "CA",
+    "zip": "45844"
+  },
+  "contact": {
+    "phone": "(205) 624-7062",
+    "servicePhone": "800826835"
+  },
+  "birthday": "2003-12-15T20:22:02.140Z",
+  "ip": "108.123.36.231",
+  "foo": "bar",
+  "profile": {
+    "about": "Tewomkit alipni sutu tot ru konvej kos tevimlu cognu capgizi tarudna mecceja. Lugaviw jeltazah zem nu sozpoz wefot punhojic ov lifweeh siwegi vofmas obofa coovep vebnob ak te netve resvigo. Zughaza junempez miwutujo puvgaruj mopu kesauso desguk imor ovvofko netikaba hicod dethu fidkahuc. Napze luk uttaaf tu lugieg hih laghojine gerhi goljatmi etasa hupigen duckabo buaru mitabik ate tebnemrin. Cegso bec unijrob icfofiv na vedzep wigom dotac tajporwic jule wog ahekab masibu sare urotrov dowigili neufi. Jo nubhum ojeli hujrom rol gif mujpa nihijvu wacmukhab tut nasupa tizlu afgese guni pod ifeju rajse. Cogimzes ice avi ciw bacwiruj iri mepi hu zo gemukda rihro ko afi.",
+    "bio": "Cizbok gez uj vo cofof vawepgi iwi wej irapuveg jiceh jujud bofwuvhir uw nedete. Fapaza hupamo pob bec zuppoja ur dal li jobagi pem vaimga ehi zetje va efuna hu cuneg re. Pu igo wudmireb joanides sana mimagfo sewoghuh nicwouk ze re iwicowos daha pela. Jo vuv pejuz babgogod unufe hukeavu sikce miajouri usuurali ofdigwa akwicfa cafitjiv daifasor nidu. Arweusu zifloz dublula kioru newpim bu vovicza ide noheruk dudomi gikulu pe saekeka wedmuuha jat rursi uki jerfer. Nobi sirpa jar datfe hum newasida hahzihce cewub nuv peh pemzebsop binneti tumro."
+  },
+  "apiKey": "33b82403bfcb7b06fb82528951e7f525c5fc88b207c1e4be785a36f61db7f3d7",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
