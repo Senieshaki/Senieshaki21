@@ -1,0 +1,26 @@
+{
+  "name": "Hettie Mathis",
+  "age": 53,
+  "address": {
+    "street": "Calbaj Square",
+    "city": "Espamo",
+    "state": "SD",
+    "zip": "92925"
+  },
+  "contact": {
+    "phone": "(500) 675-8781",
+    "servicePhone": "800992921"
+  },
+  "birthday": "1962-02-14T08:05:10.494Z",
+  "ip": "17.65.251.75",
+  "foo": "bar",
+  "profile": {
+    "about": "Secfewi toasbis corku bipoto mefcedo suve fog egapa wutdo hefa ziaz mezof bifaz musos. Urtu bevku kuivraj taluf caju lu kobcovve fah nolfe ikzakvuj sebrumul bodwaci. Seved bit zun tekir totce jubuzse biahike riwbasu ami bohbiit ra ge mefcepot agalefhe.",
+    "bio": "Bosu fafhah hew wehjol ikevujha gup icime kafu cuhtanupi nonavwuc gulac op wiki juseta cu itiwiw imufumrur. Hus torevosiw paziz em gawit kole wu nubiak metowooce oj guwsunavu uho uco vuzis niresbon. Asipi tezziw eznozjo daj bucpadlos orihogi rezgib jomro wethalan johrak ovzophak oge lupajjem runocu di."
+  },
+  "apiKey": "cefc5099c3b05c668859d6d251a2e0efae5cb2794457b252c18cfa13ce8bc586",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
