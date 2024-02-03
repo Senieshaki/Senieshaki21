@@ -1,0 +1,26 @@
+{
+  "name": "Lola Powers",
+  "age": 19,
+  "address": {
+    "street": "Jamew Mill",
+    "city": "Ohafelnen",
+    "state": "AZ",
+    "zip": "61938"
+  },
+  "contact": {
+    "phone": "(921) 888-2030",
+    "servicePhone": "800769981"
+  },
+  "birthday": "1991-06-09T11:12:45.482Z",
+  "ip": "157.19.238.252",
+  "foo": "bar",
+  "profile": {
+    "about": "Nusnolep dulajse dujap zaisu nu tu sej tifzizim mapabja elmam rapoan kunofjo donviho tapfa jaj osivusbo jiten tez. Virak ejfu cajna niwab noof rizi mowehe cu na jidfoz kohim vus nub lip eg fueg fow. Ili ho rokkuppu le izasun fapomov hotak kupsa pabimlec age tan sag fentuzo.",
+    "bio": "Fawbeoja bedilapat pan dov efmo hot ti wuve vivla jat un pef elovafesu okujeto razu kejzojzik otpumi ze. Rol niwa utogesdi mogvogepi ju cu lesodado ohgos tihsot ripevol lalunfim mimul tut pusuftup kuztevnob noj luvinzok. Teemehos ewsuwapi row merpit cut neoj ma irukewwe pevup magizec se lec mirib kukrocru."
+  },
+  "apiKey": "a958f6df60f3102ce35066774622499696041dbdbecabdd1e46720dc1ed14dda",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}
