@@ -1,0 +1,26 @@
+{
+  "name": "Chester Norton",
+  "age": 29,
+  "address": {
+    "street": "Alala Street",
+    "city": "Totamo",
+    "state": "RI",
+    "zip": "72284"
+  },
+  "contact": {
+    "phone": "(650) 601-8505",
+    "servicePhone": "800749558"
+  },
+  "birthday": "2005-08-01T05:32:30.432Z",
+  "ip": "63.235.63.61",
+  "foo": "bar",
+  "profile": {
+    "about": "Ohsummu juebi bofehaz cuka bumekvo gu agebetum totog zohkitac tiegili ko gufze bogvure hez erge ti da. Pultic punatru oc ajmuc foceca wasatcab rul civij lo sahepsi ti nizankew hansob sur. Ubahefuz noef nej bi anbol gur pupjuk uke fug ka kewfa baf ceji. Edomu vusihtow huc kezdupla vetpa puvcade mi batohuewi zuzecuwav ove ejoso paummi wutafihan suwfoc jadujo. Rimlaoco vujic ma tizew wipfalet ofnak nik bot ivajov ep rowanu fauzoede finueza erbid zeme rozwibe gupegda buhu.",
+    "bio": "Ejuwapu ije ro bupziz cuvho ifanuzu wib va no wej nusfu lajebpej va zov atojatib. Sedimaja inu sujzu batujal pogakah musu vogolci wuho homuj eg bewamoc nup. Ejapaifo vicko pafo fogfoeta fulastog zatakwu wod wocer ovmagfes vagebe mooso acalug cuk wo winre nodla afva. Ufaohi ecigawa hon tizji ne adpuw nu zafcumub fuphaso esoingat al buj zifre gun vomaske aze git. Hi fuju ihgezcap beuko guvagogef boj za du ema wasune hetkoz pulu ir gaf mebi mavuc ota."
+  },
+  "apiKey": "2cbdd5bf2f2ba2cd8b20bdff27d1ea1f51eaa7fe812d5f8a2e5abadd4d41a330",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  }
+}
