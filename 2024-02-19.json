@@ -1,0 +1,26 @@
+{
+  "name": "Daisy Burgess",
+  "age": 37,
+  "address": {
+    "street": "Egaapa Parkway",
+    "city": "Uhoatese",
+    "state": "MN",
+    "zip": "23717"
+  },
+  "contact": {
+    "phone": "(446) 939-8842",
+    "servicePhone": "800812496"
+  },
+  "birthday": "1966-12-27T04:06:01.688Z",
+  "ip": "191.40.35.102",
+  "foo": "bar",
+  "profile": {
+    "about": "Tujwe sikozoza navo neifudov ke umelizo weiphaf cuafovag doc buz duvcinav jug veole. Tohdun jep cigjahge akukib id la hosmutsak tokgitas pub za rovhi ki odpele tikwega donmun hehko uhlitnom jos. Hiho rus hof ta tut culmampaz riujje sog lutwekowe fomcob onucinwi jiput.",
+    "bio": "Faj ucoce roozi cef zan ekfibo nori gejfe vifelner mul po epara judu vop vodugut opu iz je. Sopevu keje pu col talobo dewdi weji do im wev sotirow zazeopo ru fabgigija zuhid. Uto mowa samehab witjaw sut cejgeg cudoca ro po ukahiva afuhawtak em gef wut."
+  },
+  "apiKey": "b7859ca8f13a4acd6ec907635c0872a981549901263ba8c8eb422c283b859398",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
