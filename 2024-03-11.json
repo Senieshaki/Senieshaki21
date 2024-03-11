@@ -1,0 +1,26 @@
+{
+  "name": "Millie Watts",
+  "age": 30,
+  "address": {
+    "street": "Wagop Road",
+    "city": "Kovpetisi",
+    "state": "LA",
+    "zip": "42976"
+  },
+  "contact": {
+    "phone": "(839) 615-5395",
+    "servicePhone": "800994898"
+  },
+  "birthday": "1991-03-16T03:29:28.291Z",
+  "ip": "71.187.112.65",
+  "foo": "bar",
+  "profile": {
+    "about": "Una gol ukgego kuofu hakebbi jipe amemoso eshu benur pi bokot nompim gir toipuwo nelcu tedtuplo zo. Enejosro ibu diz wacmula pivpibahe bo benna ebu pafe epze zuhu rajiac laprij feno. Zo wezbi zeveptol zipif uhgi efo dacil nucjid nivluda si oka sucuf ramsuwazu pado arnokob niwenbov.",
+    "bio": "Wi ge ufoguhva zuplomel pako koco sodvit ti okoiz nacka zo ra lipahte amovieri. Cagdik balupho antumzo vot gefien omukimhas ur esric jafse huwejuc rus itazo fevas. Hodo jifhez ebipihmir howezimo okutul miwkokno hu weca anifujud huggoc kaw be gecotjul ratamet ecupibez."
+  },
+  "apiKey": "86925ece60d816566ff28c37a60e4559dfd8d3f4f1436bdf9c28bbcf0fb4f48a",
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound"
+  }
+}
