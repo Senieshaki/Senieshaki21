@@ -1,0 +1,26 @@
+{
+  "name": "Tom Roy",
+  "age": 42,
+  "address": {
+    "street": "Topih Mill",
+    "city": "Ocahaor",
+    "state": "RI",
+    "zip": "46577"
+  },
+  "contact": {
+    "phone": "(707) 655-8124",
+    "servicePhone": "800375737"
+  },
+  "birthday": "1962-01-19T07:32:19.776Z",
+  "ip": "51.201.42.153",
+  "foo": "bar",
+  "profile": {
+    "about": "Hejose virbef kattaf hufvafrag remuvva oluhe feffehi gumas nangomoc ha hapirdat ciapagi fiez reuwa lum iwusob na jegwanit. Kor ur diom kat beopov waj few huuje oziov sijnije covolot pivcagpab bazjahef. Sobemibih bunselohi ej di cipnevti govuhej ku geofe lawzi tez beaji wus ela iz ot. Biiwouji jupvu fahkuwcoh olokofiz luw sazec tefodu tisocma poknetzon eg nih heinawah zad fi soteku amsodnuf. Fusrado hof zok himok ajori sefwulfeb icopi docupin sujni picpudul tetir beej sar donirhu hupi ovulibup.",
+    "bio": "Ke weg ehajel fobcuuj iw cuzeiv ace el wej mopta namde vututi biv ug tijdihfij. Vi lit wofkik ruoh bur gamji ifedac ar herud gupe rul egado sev rezakiw celnic. Jag anipahev haf cojidci lo usri covud hagka fegnijwe bakdijla ujozu jogzak uh noniku wocu jepaj tigga badrala. Zacuope pav wa iwazuar okce mobsa ecsudap vijiiro caup sa upa assa."
+  },
+  "apiKey": "56f2dca7ba66d918c1ab3170a8ea1ac4e346d743f9e9ebda2fa4a07d777a8797",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
