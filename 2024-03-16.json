@@ -1,0 +1,26 @@
+{
+  "name": "Nettie Paul",
+  "age": 27,
+  "address": {
+    "street": "Kofes Avenue",
+    "city": "Turijdaj",
+    "state": "TX",
+    "zip": "85453"
+  },
+  "contact": {
+    "phone": "(677) 958-5374",
+    "servicePhone": "800137992"
+  },
+  "birthday": "2004-10-19T16:48:24.011Z",
+  "ip": "234.161.236.189",
+  "foo": "bar",
+  "profile": {
+    "about": "Faco masico cihdid vi cotug tiesuv pabol wo gaparka omimal mupvo utjufwiz jo. Hapfekahe du ri meufosi feji osevun ta oh fa nocbosre ud zalriv wanuzu uf pamaneute. Jirliju awa ba kissi vogvazpe cotusoj guucoced urerit gu mucdunne catav dodej wanokkac hep.",
+    "bio": "Poscagaz matog tebzosvu sunje larozu utodog zirji pidcil wa ofari oliziwuk nu. Piicwut zeigjug epjogo lok ticdiseg fotwuat kuwbu hidazed zu botiwip cesdi jopfah lehsipiwe zaastir ne convuktap. Wozewi vasjimig hokfuw kaz cutfewek roamo lufzohtu gi ka cu niv iki ah nerliz zos nes wid."
+  },
+  "apiKey": "32dd4b11d2c18368fa2233bae590476632a86b49ffe357b143d2668d3f59acf8",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
