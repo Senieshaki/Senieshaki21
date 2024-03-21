@@ -1,0 +1,26 @@
+{
+  "name": "Miguel Reese",
+  "age": 34,
+  "address": {
+    "street": "Cajej Extension",
+    "city": "Bawiza",
+    "state": "MT",
+    "zip": "48083"
+  },
+  "contact": {
+    "phone": "(285) 339-1003",
+    "servicePhone": "800859129"
+  },
+  "birthday": "1978-11-18T12:35:14.406Z",
+  "ip": "8.223.90.22",
+  "foo": "bar",
+  "profile": {
+    "about": "Bu idejen wulof orij nes cabutzu fuhbu omoivojul jutewwip zihow ce mig. Uknakaj mulime suzpa piuwu kaje evtebit irmolaf tevjepal lur ojci tatu puuci. Lotag wu di kuwonibo mi wujje bebsicmi wa ekvuf ko lutpocul vad.",
+    "bio": "Sa puwume uslo waksav apovosij dilve vemav cis curok bav jagicusut bohcelik jafuut ewatake. Satu inesohuv vofdu jaka sedrol vasil nev nulpadpih bato vu ju te ri sut cotoh kij. It mo rebepni fefuk nek sokicage vo iwatizmut odnozoz potmehmol malpiwej deweda catu otdemaw bu rero erecidi. Azoda figzub weh rewed gu lotic ruk ce seradseh egjit mojvoszo kinikrar owugural sac ajola baz ikzabeg. Hif robitu huc zidhownol cageh apupew nopgiwu ehcatok bi okeli upaep iz mahuvtuw ilzuh sunraw lefejsun."
+  },
+  "apiKey": "aa6e0ee5e2af8282cbbddc86b5265aa04588ad3d4886c393be904d7a82bb0065",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
