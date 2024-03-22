@@ -1,0 +1,26 @@
+{
+  "name": "Henry Hanson",
+  "age": 31,
+  "address": {
+    "street": "Bivzel Park",
+    "city": "Pewumco",
+    "state": "DE",
+    "zip": "83111"
+  },
+  "contact": {
+    "phone": "(852) 468-7344",
+    "servicePhone": "800218411"
+  },
+  "birthday": "1999-01-08T00:45:43.620Z",
+  "ip": "57.59.14.137",
+  "foo": "bar",
+  "profile": {
+    "about": "Iro cutpoh dihniswu vad kul athi ure biju jan pa telan zetto enizaiw seihoc osawar ujojulite. Il huceftej mol zo cehanas pukhuval kev zaalo mijer re nona icrivu safetka roktu zufjeiv. Vougni giw uh seol jetakde cowir ot kumpopik fe porsoba bibkop zizdigji ful. Bepobezi doese ohu bec zu etobaca jedjum fibunave epe vahmab depdej ofaisucu sop fennige.",
+    "bio": "Lerseh vuvkigo ut ebbaza enufafe wot aboov mar jepwu rurob fu izakugmo peovu deki sapmabuk nitos. Afujuswur bitwevujo buleb metufim te bebzipa cu uwsad siojo mecropem gasrizroc es lim judik nakamdi. Utuzik gimkojhi bom fimjonub oga puhhidsav co bicdab odkek hukuz vozoj vo lerem bec."
+  },
+  "apiKey": "48790b607275186788ba74f932286366c4ca171d9fa8b6454852074e1f133f99",
+  "currency": {
+    "code": "MVR",
+    "name": "Maldives (Maldive Islands) Rufiyaa"
+  }
+}
