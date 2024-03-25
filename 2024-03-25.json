@@ -1,0 +1,26 @@
+{
+  "name": "Barry Wallace",
+  "age": 53,
+  "address": {
+    "street": "Uvaig Manor",
+    "city": "Movodera",
+    "state": "WV",
+    "zip": "98852"
+  },
+  "contact": {
+    "phone": "(650) 591-8708",
+    "servicePhone": "800255937"
+  },
+  "birthday": "1968-04-04T15:53:13.920Z",
+  "ip": "141.140.80.238",
+  "foo": "bar",
+  "profile": {
+    "about": "Misiwej veczoc ga zegituc lu iguog dahre ada oneak opi rawlig jujoake izeturlem wub pola ne mekjihe. Walkod zo ma sog naste wo hi jif necumwu nu ve kuga wulav waju niewu wu wobso ba. Nuni lapsig boh lesfat nodfe pivrucso ligpogem cidutil ub du usuuz to.",
+    "bio": "Mib gojkaati etadem ore sobucki ifu gitcabi jakatom mop lefnah meas houpe ucpajhip biksat pekaun derroli janoj tahuj. Zojeltu oz kof segevral tamazohi tuni kez icavenup wos va dow joklonwal wusida. Farkunil lurobbop wizi gufguz hu odujodki puruzlak afci odfoah antup kekcaj culul tezolem li olrefego dagako."
+  },
+  "apiKey": "f735d86257b0e531cfcec1435e6e8c780b1a3d24b441100c08802b1da4fb6d5e",
+  "currency": {
+    "code": "MYR",
+    "name": "Malaysia Ringgit"
+  }
+}
