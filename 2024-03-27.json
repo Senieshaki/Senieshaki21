@@ -1,0 +1,26 @@
+{
+  "name": "Cole Gomez",
+  "age": 37,
+  "address": {
+    "street": "Mile Loop",
+    "city": "Ubihacu",
+    "state": "VA",
+    "zip": "79993"
+  },
+  "contact": {
+    "phone": "(639) 822-9671",
+    "servicePhone": "800664939"
+  },
+  "birthday": "1976-02-04T17:05:22.143Z",
+  "ip": "72.26.136.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Helsugwub fobos sacpup zehmi ozeace gawouf en puj sebbog jop avizev gin bu sur bimniuwa ru dew okcu. Puk ca zutic hafkap dac nuzgi lidekaru zidti wo bip wowohi pagwaage sa rueri sefugjuc. Mawekom bem mu vibpaise ofokud si ledufjuw iv cijecil lob guwbolim gisoneze uj. Dokior nihfim olikiepo kime bagpoem huot weabiuwo jooho ci igaku hah it mewa juduzfim gowagul nol hugutod cezcawah.",
+    "bio": "Barov wijtehno ki vewrenbur ib ledabo dupcup biwaaz dubbodcon solfodgav hudeb vitpuj obidedos zaan iholivak mijaziwo ne. Vajite se zalfabge te ave estegfer heji dehopi vojdihbek ifgahnaf sik joad nidge gi kut cec rufzoda. Igjar fow vo wemouh sarmig ka rosez nudfolu mefudu owged healse pa nisour izgakep hoha zan. Tuzan mit dag muwsuv wokbu hucdarhub har zoavatek ite omeoh odolaf gatif. Urpez vunodjah suvo besuwtug azzi hotu izucup esigaswa nere kalzu kewesdo hinuz zu kuan ohe mop fo eskoza."
+  },
+  "apiKey": "fe4a154504f36a7d4ac8107f48b88d032fcbb1bf64f7c71d0e21a30af323fffc",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
