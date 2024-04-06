@@ -1,0 +1,26 @@
+{
+  "name": "Luella Rose",
+  "age": 24,
+  "address": {
+    "street": "Coujo Terrace",
+    "city": "Getribso",
+    "state": "IL",
+    "zip": "13764"
+  },
+  "contact": {
+    "phone": "(863) 352-8576",
+    "servicePhone": "800182424"
+  },
+  "birthday": "1999-10-29T02:46:28.057Z",
+  "ip": "194.141.98.29",
+  "foo": "bar",
+  "profile": {
+    "about": "Zapu sabliz zej osofuv latijce lam oflakwuf jod zegavineh jijastav johmu bup ar odedud pur woj ufosrar wazebil. Razup zo wer vi uwidevob fi ki keel oveof vafi dirja juani fegac lowaj ri kahe. Novdijeni jompali kiwuz cinvosige koneapo lanorsut ij ifa ku wigaso hop hij.",
+    "bio": "We asza deciw orkuodo muf buf jokjeup rojgev sudo ranjam dewivco oh izjuci bu. Awkidot cunhiwki atosib kiirahi jalkahnu hed wew mav fu gazwat vu elipala pus dohih ovvan suhho rap. Uv diw la bekbujlig ruf vunegde hub up dakaw lojgobe vukibpol hepwis."
+  },
+  "apiKey": "1940f8c314fe3d29830e689e044a5d1c12a30e43b8ba6cc920911b10b1f0278b",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
